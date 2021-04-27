@@ -1,3 +1,5 @@
 rootProject.name = "LibApp"
 include ':app'
 include ':zzz'
+include ':LocalRepo:RxLife'
+include ':LocalRepo:WeChat'

@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default",file('wechat-sdk-android-without-mta-6.6.23.aar'))
